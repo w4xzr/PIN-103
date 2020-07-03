@@ -25,7 +25,7 @@ deploy:
   provider: releases
   api_key:
     secure: wSvphxZ4vmxR51WJ4L0WjZUMF4lUjLNuGeiRqrbQosrzcjS5E32euLtgH2+j1WvBPJnzb+o5J3wz++RxDJRhzM8R/Ipn1ooNDNNEiBrTRUeMW/UZFCv0EzBT0yfIatULPo+Cye0Fe2KCs9bSYidrwvBhfqEoS1Va2YwR5m+DkKli9G1fb2VzPfZuHvc7KjjLYWJQcFw/w2306eWVWFqHLgnkI6oxY+bmKZsbVihwxwYPTonFk9sdfzYlDKL0ld3y8k69c+4rEPup1yvD1xcECsHKTaTxPB97BtX5U4do9m2G3OabPoTFucxJAa8ziRZMjsR6t6/tQoQjbvxhHXGJFN6vHs4gQBZKuJiSuvQqSH0QQLvkJV+jj9FfIemtEnwRJYwWSTpXewQ1V5yI3fwvhwfVpqTcp6LQHfp9e/Qx/TUNqJY0y85CUKkr28jNNU55YOvOKnBJ+BqY8DLipiiyz6KtW4oRnmBVlOKnLoZQdJDjzGSm766Out6pDLwe17RG0r2IPU1QiMGilqaD69GfL2h9H/wOymx8v80kfnz1jHVMaWM4kKqWudH3E2DAMyoam76YWCTL16lsbQBGbG26zbF18wSkCYsVI9BbBF2NVn/BkbIVVxzKS4lHVvss2xlwInrZDFC5DhVxLacD8T/p25+Qgk/eexL/sJJAsJsGoQI=
-  file: Gerbers/PIN-103
+  file: Gerbers/PIN-103_gerbers.zip
   on:
     repo: w4xzr/PIN-103
   skip_cleanup: 'true'
